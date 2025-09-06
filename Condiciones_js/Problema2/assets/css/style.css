@@ -1,0 +1,26 @@
+
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+
+img {
+  width: 280px;   
+  height: auto;  
+  display: block;
+  margin: 7px auto;  
+}
+
+input {
+  display: block;
+  margin: 5px auto 15px auto; 
+  width: 30px; 
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin: 10px auto;
+  padding: 5px 10px;
+}
